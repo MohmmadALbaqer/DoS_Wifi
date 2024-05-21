@@ -1,4 +1,4 @@
-![Logo](Logo.jpeg)
+![Logo](image.jpeg)
 
 
 ### Installation (Linux)
