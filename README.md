@@ -19,8 +19,8 @@ $ sudo python3 control.py
 ```
 usb wifi adapter
 ```
-![Logo](image_Banner.jpeg)
-![Logo](image_Attack.jpeg)
+![Logo](image_Banner.png)
+![Logo](image_Attack.png)
 
 ## [~] Find Me on :
 
